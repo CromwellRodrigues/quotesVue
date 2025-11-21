@@ -19,7 +19,7 @@ const sayings = [
     { quote: "Some people graduate with honors, I am just honored to graduate.", author: "Dilbert" },
     { quote: "I’m not procrastinating. I’m doing side quests.", author: "Alice" },
     { quote: "If at first you don’t succeed, skydiving is not for you.", author: "Dogbert" },
-    { quote: "I put the 'pro' in procrastinate.", author: "Wally" }
+    { quote: "I put the 'pro' in procrastinate.", author: "Wally" },
     { quote: "Experience is something you don’t get until just after you need it.", author: "Dilbert" },
     { quote: "I’m on a 30-day diet. So far, I’ve lost 15 days.", author: "Alice" },
     { quote: "I’m not lazy, I’m just very relaxed.", author: "Dogbert" }
